@@ -50,6 +50,9 @@ function Nav () {
       <Stack direction="row" spacing={3}>
       <div className="container">
        <img src={logo} alt="logo"></img>
+       <Button>
+         About
+       </Button>
           <Button
             ref={anchorRef}
             id="composition-button"
@@ -94,6 +97,9 @@ function Nav () {
               </Grow>
             )}
           </Popper>
+          <Button>
+            Contact Us
+          </Button>
         </div>
       </Stack>
     );
