@@ -1,4 +1,15 @@
 .HomeFactory {
   height: 800px;
   width: 100%;
+  position: relative;
+  text-align: center;
+  
 }
+
+.slogan {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 80px;
+}
+

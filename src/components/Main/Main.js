@@ -8,6 +8,7 @@ export default function Main () {
     <body>
       <div className="HomeFactory">
         <img src={Factory} alt="factory" className="HomeFactory"></img>
+        <div className="slogan">Make Life Comfortable</div>
       </div>
     </body>
   )
