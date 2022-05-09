@@ -3,7 +3,7 @@
   width: 100%;
   position: relative;
   text-align: center;
-  
+  z-index: -1;
 }
 
 .slogan {
