@@ -9,7 +9,7 @@ function Nav () {
         <img src={logo} alt="logo"></img>
         <ul>
           <li>About</li>
-          <li>
+          <li className="dropdown">
             <button className="dropbtn"> Catalogue </button>
               <div className="dropdown-content"> 
                 <a>Bedroom</a>
