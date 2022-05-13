@@ -7,7 +7,7 @@ export default function Main () {
   return(
     <body>
       <div className="HomeFactory">
-        <img src={Factory} alt="factory" className="HomeFactory"></img>
+        <img src={Factory} alt="factory" id="front"></img>
         <div className="slogan">Make Life Comfortable</div>
       </div>
     </body>

@@ -1,9 +1,13 @@
 .HomeFactory {
-  height: 800px;
-  width: 100%;
   position: relative;
   text-align: center;
   z-index: -1;
+  height: 900px;
+}
+
+#front {
+  max-height: 100%;
+  width: 100%;
 }
 
 .slogan {
