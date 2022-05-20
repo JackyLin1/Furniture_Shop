@@ -26,3 +26,9 @@
   display: flex;
   flex-direction: row;
 }
+
+.contactContainer {
+  display: flex;
+  flex-direction: column;
+  border: outset;
+}
