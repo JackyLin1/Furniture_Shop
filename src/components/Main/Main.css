@@ -29,3 +29,16 @@
   flex-direction: column;
   border: outset;
 }
+
+.card1 { 
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+}
+
+
+#card1Img {
+  
+  height: 400px;
+}
