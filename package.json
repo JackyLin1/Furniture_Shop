@@ -2,7 +2,7 @@
   "name": "morishige",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jackylin1.github.io/",
+  "homepage": "https://jackylin1.github.io/morishige/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
