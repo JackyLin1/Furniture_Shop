@@ -28,7 +28,7 @@ export default function Main () {
             <img src={Factory} alt="factory" id="front"></img>
           </div>
           <div>
-            Professional Team           
+            Professional Team with experience   
           </div>
         </div>
       </div>
